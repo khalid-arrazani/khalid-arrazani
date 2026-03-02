@@ -10,7 +10,7 @@
 
 ---
 
-## 🌑 About Me
+##  About Me
 
 ⭐ Passionate Frontend Developer  
 ⚡ Focused on modern UI & smooth animation  
@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,css,git,github,vscode,Mui"/>
+<img src="https://skillicons.dev/icons?i=js,react,css,git,github,vscode,mui"/>
 </p>
 
 ---
