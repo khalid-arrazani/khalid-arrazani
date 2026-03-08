@@ -21,9 +21,12 @@
 
 ## 🛠 Tech Stack
 
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,css,git,github,vscode,Gsap,mui"/>
+  <img src="https://skillicons.dev/icons?i=js,react,css,git,github,vscode,materialui"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48"/>
 </p>
+
 
 ---
 
